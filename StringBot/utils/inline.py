@@ -9,7 +9,7 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="📂 sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ 📂", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="📌sᴏᴜʀᴄᴇ ", url="https://github.com/Badhacker98/StringBot"
+                text="📌sᴏᴜʀᴄᴇ ", url="https://github.com/DED-LEGEND/StringBot"
             ),
         ],
     ]
